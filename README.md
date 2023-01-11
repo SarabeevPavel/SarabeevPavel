@@ -1,7 +1,7 @@
 <!-- #### Hi👋, I'm Pavel. -->
 <!-- ## Full stack developer. 💻🦫 -->
 
-[!Header](https://github.com/SarabeevPavel/SarabeevPavel/blob/main/assets/header-title.gif)
+<img src=https://github.com/SarabeevPavel/SarabeevPavel/blob/main/assets/header-title.gif title="title" alt="title"/>&nbsp;
 
 <br />
 
