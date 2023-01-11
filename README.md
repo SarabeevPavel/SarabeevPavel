@@ -5,14 +5,14 @@
 
 <br />
 
-### Contact with me:
-  [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Pavel-LinkedIn" width="40" height="40"/>][linkedin]
+### Contact with me: 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Pavel-LinkedIn" width="40" height="40"/>][linkedin]
 
 
 
 ### My main stack and tools.
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,11 +37,11 @@
 <br/>
 
 ### My stats.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavel11988&show_icons=true&theme=gruvbox)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel11988&layout=compact&show_icons=true&theme=tokyonight)
 <br/>
+
 ![Counter](https://komarev.com/ghpvc/?username=SarabeevPavel&color=blueviolet)
 <br/>
 
