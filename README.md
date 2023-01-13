@@ -43,7 +43,8 @@
 <br/>
 
 ### My stats.
-![Anurag's GitHub stats](https://github-readme-stats.vercel-sigma-five.app/api?username=SarabeevPavel&show_icons=true&theme=gruvbox)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel-sigma-five.app/api?username=SarabeevPavel&show_icons=true&theme=gruvbox) -->
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SarabeevPavel&theme=react&line_height=40&hide=css"/> </a>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=SarabeevPavel&layout=compact&show_icons=true&theme=tokyonight)
 <br/>
