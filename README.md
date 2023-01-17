@@ -5,10 +5,6 @@
 
 <br />
 
-### Contact with me: 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Pavel-LinkedIn" width="40" height="40"/>][linkedin]
-
-
 
 ### My main stack and tools.
 
