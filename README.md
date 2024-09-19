@@ -39,7 +39,6 @@
 <br/>
 
 ### My stats.
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=SarabeevPavel&theme=react&line_height=40&hide=css"/> </a> 
 <br/>
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SarabeevPavel&theme=react&line_height=40&hide=css"/> </a> 
 <br/>
