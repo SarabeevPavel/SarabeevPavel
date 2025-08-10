@@ -34,10 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" height="30" alt="tailwindcss logo" />
 </p>
 
-**Frontend:** HTML5, CSS3, JavaScript, TypeScript, Astro, React, Next.js, ReactQuery, Redux, Tailwind CSS, BootsTrap, MUI, GraphQL, Apollo
-**Backend:** Node.js, Express, Go, MongoDB, MySQL
-**Mobile:** React Native
-**Tools:** Docker, Git, Figma, Webpack, ESLint, TurboPack
+💻 **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Astro, React, Next.js, ReactQuery, Redux, Tailwind CSS, BootsTrap, MUI, GraphQL, Apollo <br/>
+🛰️ **Backend:** Node.js, Express, Go, MongoDB, MySQL <br/>
+📲 **Mobile:** React Native <br/>
+🛠️ **Tools:** Docker, Git, Figma, Webpack, ESLint, TurboPack <br/>
 
 ---
 
