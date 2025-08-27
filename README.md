@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">Full Stack Developer | JavaScript • TypeScript • Go | Mobile & Web Apps</h3>
+<h3 align="center">Full Stack Developer | TypeScript/JavaScript • Go | Mobile & Web Apps</h3>
 
 ---
 
